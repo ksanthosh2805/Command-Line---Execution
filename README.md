@@ -2,7 +2,6 @@
 
 ## Windows Commands
 
-# Windows
 # copy
 Copies one or more files to another location.
 
