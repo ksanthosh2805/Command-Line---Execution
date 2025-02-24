@@ -153,7 +153,10 @@ Removes all partitions from the selected disk.
 
 ![image](https://github.com/user-attachments/assets/97399651-a2fa-49e5-9e6c-a05e44dce209)
 
-# LINUX
+
+
+
+# Linux
 
 ls command The ls command lists the content of a folder, including files and directories.
 
